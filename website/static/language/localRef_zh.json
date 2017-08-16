@@ -25,7 +25,7 @@
 		"btn":"重置"
 	},
 	"registryEntry":{
-		"title":"GameJV 注册入口",
+		"title":"OneTech 注册入口",
 		"btn_1":"公司",
 		"btn_2":"个人",
 		"bottom_tip_1":"Warm Tips:",
@@ -126,7 +126,7 @@
 	},
 	"appList":{
 		"appList_head":"App 列表",
-		"appList_head_tip_1":"您可以查看所有您在GameJV平台注册的应用的状态",
+		"appList_head_tip_1":"您可以查看所有您在OneTech平台注册的应用的状态",
 		"appList_head_tip_2":"点击选择一个应用，您可以查看它的详细信息",
 		"appList_content_title":"所有App",
 		"appList_add_btn":"添加App",
